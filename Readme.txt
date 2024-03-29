@@ -6,7 +6,7 @@ License:	Attention-based pattern discovery of mass spectrometry imaging data wil
 
 ---------------------------------- Demo --------------------------------------
 How to run the code?
-	1- "msiPL_Run_3DColorectal_trans.ipynb" and "msiPL_Run_3DColorectal_trans.ipynb" are the main files which are independent form each other. We have provided required comments for instructions and guidance. In this file you will be able to:
+	1- "Atnal_3DColorectal_trans.ipynb" and "Atnal_3DColorectal_trans.ipynb" are the main files which are independent form each other. We have provided required comments for instructions and guidance. In this file you will be able to:
 		1.1. Load a dataset.
 		1.2. Load the computational neural network architecture (Atnal).
 		1.3. Train the model.

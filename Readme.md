@@ -34,7 +34,7 @@ further aid in clinical cancer diagnosis.
      6. Perform data clustering (GMM).
      7. Identify localized peaks within each cluster.
 
-2. **Computational_Model_trans.py** and **gmm.py**:
+2. **Computational_Model_trans.py** :
    - Implementation of the Atnal (our neural networks).
 
 3. **LearnPeaks.py**:

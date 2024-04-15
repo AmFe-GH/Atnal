@@ -48,6 +48,4 @@ We provide a sample of a publicly available MSI data to train and test the model
 
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Wolfgang_Schulz.png" alt="Generative Wolfgang">   Acknowledgements
 
-This work was supported by National Natural Science Foundation of China
-(Grant 12101430) and Department of Science and Technology of Sichuan
-Province (Grant 2021ZYD0018). (Corresponding author: Cong Wu.)(https://yjs.cd120.com/contents/559/1710.html)
+Corresponding author: Cong Wu.(https://yjs.cd120.com/contents/559/1710.html)

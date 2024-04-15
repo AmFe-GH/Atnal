@@ -23,7 +23,7 @@ further aid in clinical cancer diagnosis.
 
 ### How to run the code?
 
-1. **Atnal_3DColorectal_trans.ipynb** and **Atnal_3DColorectal_trans.ipynb**:
+1. **Atnal_3DColorectal.ipynb** and **Atnal_3DColorectal.ipynb**:
    - These are the main files which are independent from each other. 
    - We have provided required comments for instructions and guidance. In this file you will be able to:
      1. Load a dataset.

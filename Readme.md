@@ -3,7 +3,7 @@
 <img src="Template/pic/workflow.png" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
 </p>
 This readme file shows how to properly run the code of Atnal(Jiang et al,):
-Guoqing Jiang et al, Attention-based pattern discovery of mass spectrometry imaging data
+Guoqing Jiang et al, Attention-based pattern discovery of mass spectrometry imaging data.
 
 License:	Attention-based pattern discovery of mass spectrometry imaging data will be shared using the 3D Slicer Software License agreement.
 
@@ -40,8 +40,10 @@ further aid in clinical cancer diagnosis.
 3. **LearnPeaks.py**:
    - Implementation of a function that identifies peaks of interest. 
    - It should be called after training the model.
-
-
+4. **gmm.py**:
+   - Subcomponent of Gaussian Mixture Clustering, called directly from the main files.
+5. **Template**:
+   - Pictures used in the paper.
 We provide a sample of a publicly available MSI data to train and test the model and to ensure reproducibility.
 
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Wolfgang_Schulz.png" alt="Generative Wolfgang">   Acknowledgements

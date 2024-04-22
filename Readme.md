@@ -1,4 +1,10 @@
 # <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Isabella_Rodriguez.png" alt="Generative Isabella">Attention-based pattern discovery of mass spectrometry imaging data
+[![License: 3D Slicer Software License](https://img.shields.io/badge/License-3D%20Slicer%20Software%20License-green)](链接到你的协议页面)
+![version](https://img.shields.io/badge/version-v2.1.2-blue) 
+![Dependency](https://img.shields.io/badge/dependency-PyTorch-orange)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Contributors](https://img.shields.io/badge/contributors-1-p)
+
 <p align="center" width="100%">
 <img src="Template/pic/workflow.png" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
 </p>

@@ -1,4 +1,3 @@
 /__pycache__
-/data/Prostate/
-/data/Colorectal_Adenocarcinoma.h5
-/Saved_models/
+/data/*
+/Saved_models/*

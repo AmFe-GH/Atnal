@@ -26,7 +26,7 @@ to 0.79). Atnal can provide quantitative guidance for the clinical removal of ca
 further aid in clinical cancer diagnosis.
 ## Quantitative Comparative Analysis of Model Performance
 <p align="center" width="100%">
-  <img src="pic/results.png" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
+  <img src="pic/results.PNG" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
 </p>
 <p align="left">
   <strong>(a):</strong> The m/z values identified by Atnal exhibit significantly higher correlations with cancerous regions compared to those found by msiPL, as observed in the dataset of colorectal adenocarcinoma. Moreover, Atnal effectively circumvents the omission of crucial m/z values. Baselines include: msiPL[7], MCML[24], GPLVM[25], t-SNE, and PCA. 

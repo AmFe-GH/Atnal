@@ -1,3 +1,5 @@
 /__pycache__
 /data/*
 /Saved_models/*
+!/data/.gitkeep
+!/Saved_models/.gitkeep

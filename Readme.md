@@ -1,12 +1,15 @@
+
 # <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Isabella_Rodriguez.png" alt="Generative Isabella">Attention-based pattern discovery of mass spectrometry imaging data :rocket: 
 [![License: 3D Slicer Software License](https://img.shields.io/badge/License-3D%20Slicer%20Software%20License-green)](链接到你的协议页面)
 ![version](https://img.shields.io/badge/version-v2.1.2-blue) 
 ![Dependency](https://img.shields.io/badge/dependency-PyTorch-orange)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Contributors](https://img.shields.io/badge/contributors-4-p)
+# <img src="./pic/bird.svg" /> 
 
+## Workflow
 <p align="center" width="100%">
-<img src="pic/workflow.png" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
+<img src="./pic/workflow.png" alt="Smallville" style="width: 98%; min-width: 300px; display: block; margin: auto;">
 </p>
 This readme file shows how to properly run the code of Atnal      (Jiang et al,):
 Guoqing Jiang et al, Attention-based pattern discovery of mass spectrometry imaging data.
@@ -35,7 +38,7 @@ further aid in clinical cancer diagnosis.
 
 
 
-## How to run the code?
+## How to run this code?
 1. **DIR: data:**
    - The colorectal adenocarcinoma dataset should be placed at "./data/Colorectal_Adenocarcinoma.h5'", which can be downloaded from [here](https://s3.ap-northeast-1.wasabisys.com/gigadb-datasets/live/pub/10.5524/100001_101000/100131/Colorectal_Adenocarcinoma/Colorectal_Adenocarcinoma.h5).
    -  The prostate cancer dataset should be placed at "./data/Prostate/P_1900.h5'", which have been preprocessed using original files. The original files can be downloaded from [here](https://www.metabolomicsworkbench.org/data/DRCCStudySummary.php?Mode=SetupRawDataDownload&StudyID=ST001857). Then, please run the script in "Atnal_prostate.ipynb" to generate the preprocessed data and  subsequential analysis.

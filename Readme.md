@@ -5,7 +5,7 @@
 ![Dependency](https://img.shields.io/badge/dependency-PyTorch-orange)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Contributors](https://img.shields.io/badge/contributors-4-p)
-# <img src="./pic/bird.PNG" /> 
+# <img src="./pic/bird.png" /> 
 
 ## Workflow
 <p align="center" width="100%">
